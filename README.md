@@ -4,3 +4,16 @@
 * อัปโค้ดเป็นตอนๆ มีทั้งหมด 13 + 1 ตอน 
 
   
+part 1
+ > evolution of program 
+ *
+    machine -> Assembly -> Procedural -> Object Oriented Functional 
+
+* keyword oop  
+  * Class 
+  * Object 
+  * Encapsulation
+  * Inheritance
+  * Polymorphism
+
+
