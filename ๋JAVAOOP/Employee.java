@@ -4,6 +4,15 @@ class Employee {
     private String name;
     private double salary;
 
+
+
+    //Default Constructor 
+    public Employee(){
+        System.out.println("Create Object Complete ");
+    }
+
+
+    // Method 
     public void setId(String id) {
         this.id = id; // this ดึง private String id มาใช้ 
 
