@@ -104,3 +104,12 @@ public Employee () {
    * นิยามคลาสใหม่จากรูปแบบของคลาสที่มีอยู่แล้ว โดยจะนำของเก่ามาใช้
    * มีผลทำให้เกิด Overriding method 
 
+---------------part 8 --------
+* super()
+   * ไว้ใช้ให้คลาสลูกส่งผ่าน ค่าไปเรียกใช้ของของแม่
+   *  Programmer p1 = new Programmer("john",40003.3);
+   * public Programmer(String name,double Salary){
+     super(name,Salary);
+     System.out.println("I am programmer ");
+  
+}  
