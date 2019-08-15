@@ -78,3 +78,22 @@ public Employee () {
    ownerName = "unassunged";
 }
 --------------
+
+
+
+------------- part 5 ---------
+
+* Acess modifier 
+* publice 
+   * all acess
+* private
+   * only class เดียวกัน 
+* protected
+   * package เดียวกัน 
+   * ต่างแพ็คเก็ต แต่เป็นคลาสแม่ลูกกัน 
+
+* ส่วนที่ทำให้ติดพิษ 55555
+* static keyword : 
+   * Non-access modifier : Static 
+   * ใช้กำหนดหน้า method เป็น static เรียกว่า static method  ทำให้สามารถเรียกใช้งานเมธอดได้โดยที่ไม่ต้องสร้างออปเจ็ค
+   * เช่นเดียวกับข้อมูล static attribute ใช้ข้อมูลได้โดยที่ไม่ต้องสร้างคลาส 
