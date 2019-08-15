@@ -1,15 +1,16 @@
 public class Main {
     public static void main(String[] args) {
 
-        //Employee e1 = new Employee(); // Create Object
+     Programmer p1 = new Programmer();
+     p1.setId("1");
+     p1.setName("John programmer");
+     p1.setSalary(40000.0);
+     p1.displayEmployee();
 
-        // e1.setId("1"); 
-        // e1.setName("John Nonphala");
-        // e1.setSalary(30000.32);
-        // e1.displayEmployee();
 
-       
-
-      Company.service();
+     Accounting ac = new Accounting();
+     ac.setName("Jaaak");
+     ac.setSalary(32000.3);
+     
     }
 }

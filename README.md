@@ -81,7 +81,7 @@ public Employee () {
 
 
 
-------------- part 5 ---------
+------------- part 6 ---------
 
 * Acess modifier 
 * publice 
@@ -97,3 +97,10 @@ public Employee () {
    * Non-access modifier : Static 
    * ใช้กำหนดหน้า method เป็น static เรียกว่า static method  ทำให้สามารถเรียกใช้งานเมธอดได้โดยที่ไม่ต้องสร้างออปเจ็ค
    * เช่นเดียวกับข้อมูล static attribute ใช้ข้อมูลได้โดยที่ไม่ต้องสร้างคลาส 
+
+
+   ---------------------- part 6 ----------------
+* Inheritance
+   * นิยามคลาสใหม่จากรูปแบบของคลาสที่มีอยู่แล้ว โดยจะนำของเก่ามาใช้
+   * มีผลทำให้เกิด Overriding method 
+
