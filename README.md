@@ -113,3 +113,12 @@ public Employee () {
      System.out.println("I am programmer ");
   
 }  
+
+--------------------------- part 9 ---------------------------
+* modifier : final 
+   * สามารถกำหนด keyword นี้่ให้กับ class,method,attribute 
+   * final ให้ class คลาสนั้นจะไม่สามารถมี  subclass ได้ 
+   * final ให้ method methodนั้นจะไม่สามารถ override method  ได้ 
+   * final ให้ data หรือ attribute  data นั้นจะเป็น constant   (ค่าคงที่ ) 
+   
+   
