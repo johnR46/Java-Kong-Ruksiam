@@ -6,7 +6,7 @@ public class Main {
     //    Programmer p1 = new Programmer("John",400.3);
       //  Accounting Acu = new Accounting("Jame",40000.1);
 
-        System.out.println(Company.NAME="micro stdio");
+        System.out.println(Company.NAME);
 
     }
 }
