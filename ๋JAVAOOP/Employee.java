@@ -1,4 +1,4 @@
- class Employee {
+ abstract class Employee {
     // Attribute
     private String id;
     private String name;
@@ -48,4 +48,6 @@
     public Double getSalary() {
         return this.salary;
     }
+
+    public abstract void Bonus();
 }

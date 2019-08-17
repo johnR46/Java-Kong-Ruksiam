@@ -132,3 +132,13 @@ public Employee () {
    
 * overloard Method ชื่อเหมือนกัน แต่ parm ต่างกัน 
 * overriding Method เป็นการกำหนดการทำงานให้กับ method ที่สืบทอดคุณสมบัติมาจากคลาสแม่ (Inheritance)
+
+
+
+------------------------------- part 11 ------------------------------
+* Abstract Keyword 
+   * abstract Method 
+      *   คือ method  ว่างๆ ที่ยังไม่ได้กำหนด รายละเอียดการทำงานลงไป 
+      * ปกติจะถูกกำหนดตอนที่คลาสลูกได้รับการสืบทอดจาก Class ของ abstract method เหล่านั้น 
+
+* กฏ หาก class ใดก็แล้วแต่ที่ประกอบไปด้วย abstracrt method อย่างน้อง 1 method class นั้นต้องเป็น abstract ด้วย 
