@@ -1,12 +1,17 @@
 
 public class Main {
     public static void main(String[] args) {
-    //    System.out.println("Hello Wolrd");
 
-    //    Programmer p1 = new Programmer("John",400.3);
-      //  Accounting Acu = new Accounting("Jame",40000.1);
+        Programmer p1 = new Programmer();
+        p1.skill("JAVA");
 
-        System.out.println(Company.NAME);
+        Programmer p2 = new Programmer();
+        p2.skill("JAVASCRIPT","C#","C++","R");
+
+
+        
+        Programmer p3 = new Programmer();
+        p3.skill("JAVASCRIPT","C#","C++","R","nodeJS");
 
     }
 }
