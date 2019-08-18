@@ -2,6 +2,9 @@
 * เรียนตามคลิปเลย 
 * Ref https://www.youtube.com/watch?v=gS7UqhKDk3E&list=PLEE74DyIkwEmNec5VsJmXqYghV8NCvChn
 * อัปโค้ดเป็นตอนๆ มีทั้งหมด 13 + 1 ตอน 
+* https://howtodoinjava.com/java-8-tutorial/
+* อีกอัน น่าสนใจเหมือนกัน เริ่มแป้ป 
+
 
   
 part 1
@@ -167,3 +170,6 @@ public Employee () {
 * คนที่คิดมา ถถถถ  ทำให้ง่ายต่อการ Design เนี่ยนะ ถถถถถถถ เปลืองหัวดีเเท้ 
    * สรุป
    
+
+
+
